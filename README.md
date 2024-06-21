@@ -12,6 +12,7 @@ if fruit is available  "Fruit <FruitName> is available, enjoy shopping !”
 else  “Fruit <fruitname> is NOT available”
 
 Sample Input and Output - 1
+
     Input:
        Apple,Orange,Banana,Guava,Pineapple
        Pomegranate 
@@ -20,12 +21,13 @@ Sample Input and Output - 1
        Fruit Pomegranate is NOT available
 
 Sample Input and Output - 2
+
    Input:
       Apple,Orange,Banana,Guava,Pineapple,Grapes
       Orange
 
-  Expected Output:
-      Enter exactly 5 fruit names separated by comma
+    Expected Output:
+       Enter exactly 5 fruit names separated by comma
 
  
 Hints:
