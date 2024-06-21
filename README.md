@@ -7,9 +7,9 @@ Following Mandatory Business Rules needs to be implemented:
 2. Enter fruit names as input in the first row separated by a comma . This is considered as the stock which is available in the store.
 3. Provide exactly 5 input values separated by comma in the first row. If more values are provided then  print a message “Enter exactly 5 fruit names separated by comma”
 4. Enter the fruit name as input to check the availability. This input should be entered in the second row.
-5. Display the output as per the condition
-         if fruit is available  "Fruit <FruitName> is available, enjoy shopping !”  
-         else  “Fruit <fruitname> is NOT available”
+5. Display the output as per the condition:
+         i. if fruit is available  "Fruit <FruitName> is available, enjoy shopping !”  
+         ii. else  “Fruit <fruitname> is NOT available”
 
 Sample Input and Output - 1
 
