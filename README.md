@@ -8,8 +8,8 @@ Enter fruit names as input in the first row separated by a comma . This is consi
 Provide exactly 5 input values separated by comma in the first row. If more values are provided then  print a message “Enter exactly 5 fruit names separated by comma”
 Enter the fruit name as input to check the availability. This input should be entered in the second row.
 Display the output as per the condition
-if fruit is available  "Fruit <FruitName> is available, enjoy shopping !”  
-else  “Fruit <fruitname> is NOT available”
+      if fruit is available  "Fruit <FruitName> is available, enjoy shopping !”  
+      else  “Fruit <fruitname> is NOT available”
 
 Sample Input and Output - 1
 
@@ -22,7 +22,16 @@ Sample Input and Output - 1
 
 Sample Input and Output - 2
 
-   Input:
+    Input:
+      Guava,Orange,Banana,Apple,Pineapple
+      Orange
+
+    Expected Output:
+      Fruit Orange is available, enjoy shopping !
+
+Sample Input and Output - 3
+
+    Input:
       Apple,Orange,Banana,Guava,Pineapple,Grapes
       Orange
 
